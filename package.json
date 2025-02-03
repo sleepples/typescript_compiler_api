@@ -1,0 +1,14 @@
+{
+  "name": "typescript_compiler_api",
+  "version": "1.0.0",
+  "description": "a personal api to compile on computers where i cant install the needed software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spencer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
